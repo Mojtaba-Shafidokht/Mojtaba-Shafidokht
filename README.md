@@ -12,4 +12,4 @@ Python developer specializing in **web scraping, browser automation, and desktop
 - 🎬 [youtube-downloader](https://github.com/Mojtaba-Shafidokht/youtube-downloader) — Desktop GUI video downloader (Tkinter + yt-dlp)
 - 🏠 [divar-scraper](https://github.com/Mojtaba-Shafidokht/divar-scraper) — Divar listings scraper with SQLite storage and a filterable query CLI
 
-📫 Reach me on [LinkedIn](your-linkedin-url-here)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mojtaba-shafidokht)
