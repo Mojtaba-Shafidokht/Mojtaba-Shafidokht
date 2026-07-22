@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Mojtaba 👋
 
-<!--
-**Mojtaba-Shafidokht/Mojtaba-Shafidokht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer specializing in **web scraping, browser automation, and desktop tools** — built with Selenium, Tkinter, and SQLite.
 
-Here are some ideas to get you started:
+- 🔍 I build reliable scrapers that handle real-world messiness: dynamic pages, missing data, inconsistent formats, and rate limits
+- 🧱 I care about clean, modular code — not just scripts that work once, but projects structured to be maintained and extended
+- 🇩🇪 B2 German speaker, based in Rasht, Iran — happy to work with German-speaking clients auf Deutsch or in English
+- 📍 Currently building out my portfolio and open to freelance / contract work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Recent projects:**
+- 📊 [price-tracker](https://github.com/Mojtaba-Shafidokht/price-tracker) — Digikala price monitor with Selenium, Telegram notifications, and stable ID-based storage
+- 🎬 [youtube-downloader](https://github.com/Mojtaba-Shafidokht/youtube-downloader) — Desktop GUI video downloader (Tkinter + yt-dlp)
+- 🏠 [divar-scraper](https://github.com/Mojtaba-Shafidokht/divar-scraper) — Divar listings scraper with SQLite storage and a filterable query CLI
+
+📫 Reach me on [LinkedIn](your-linkedin-url-here)
