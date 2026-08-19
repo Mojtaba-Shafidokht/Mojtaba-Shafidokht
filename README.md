@@ -11,5 +11,6 @@ Python developer specializing in **web scraping, browser automation, and desktop
 - 📊 [price-tracker](https://github.com/Mojtaba-Shafidokht/price-tracker) — Digikala price monitor with Selenium, Telegram notifications, and stable ID-based storage
 - 🎬 [youtube-downloader](https://github.com/Mojtaba-Shafidokht/youtube-downloader) — Desktop GUI video downloader (Tkinter + yt-dlp)
 - 🏠 [divar-scraper](https://github.com/Mojtaba-Shafidokht/divar-scraper) — Divar listings scraper with SQLite storage and a filterable query CLI
+- 🔔 [ponisha-job-alert](https://github.com/Mojtaba-Shafidokht/ponisha-job-alert) — Ponisha(A freelancing platform in Iran) job scraper based on user matched skills using Selenium
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/mojtaba-shafidokht)
